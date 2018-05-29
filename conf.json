@@ -1,0 +1,5 @@
+{
+  "port": "8080",
+  "bolt_db_name": "transactions.db",
+  "bolt_db_bucket_name": "transactions"
+}
